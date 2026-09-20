@@ -20,7 +20,7 @@
 #### 🛒 **ستوريك (Storeek) - متجر إلكتروني فاخر**
 * **الوصف:** منصة تسوق إلكتروني متكاملة بتصميم "سايبر-لغجري" فاخر (Cyber-Luxury)، مرتبطة بباك إند دجانجو قوي لإدارة المنتجات والطلبات والـ APIs.
 * **التقنيات المستخدمة:** Python, Django, Tailwind CSS, JavaScript, REST APIs.
-* **رابط المشروع:** [https://github.com/felohopa6-dot30)
+* **رابط المشروع:** [استعرض مشروع ستوريك على جيت هاب](https://github.com/felohopa6-dot30/ecommerce-drf-api)
 
 ---
 
