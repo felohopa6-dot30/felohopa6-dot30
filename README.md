@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">👋 أهلاً بك، أنا فلان (Felo)</h1>
+  <h3 align="center">🚀 Python & Django Backend Developer | Cyber-Luxury E-commerce Creator</h3>
+  <p align="center">مطور برمجيات شغوف ببناء أنظمة خلفية (Backend) قوية، وتطبيقات ويب عصرية، ودمج حلول الذكاء الاصطناعي.</p>
+</div>
 
-<!--
-**felohopa6-dot30/felohopa6-dot30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 التقنيات والأدوات (Tech Stack):
+* **اللغات:** Python, JavaScript (ES6+)
+* **الباك إند:** Django, Django REST Framework (DRF), APIs
+* **قواعد البيانات:** SQLite, PostgreSQL
+* **الواجهات والتصميم:** HTML5, Tailwind CSS, Responsive UI/UX
+* **الأدوات:** Git, GitHub, PythonAnywhere, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ أبرز مشاريعي (Featured Projects):
+
+#### 🛒 **ستوريك (Storeek) - متجر إلكتروني فاخر**
+* **الوصف:** منصة تسوق إلكتروني بتصميم "سايبر-لغجري" فخم (Dark Mode & Neons)، متصلة بباك إند Django DRF متكامل لإدارة المنتجات والطلبات.
+* **التقنيات:** Python, Django, Tailwind CSS, JavaScript, REST APIs.
+* **رابط المشروع:** [GitHub Repository](#) *(حط هنا رابط ريبو المتجر)*
+
+---
+
+### 📈 إحصائيات جيت هاب:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felo7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+---
+
+### 📫 تواصل معي:
+* 💼 **LinkedIn:** [اضغط هنا لرابط لينكدإن](#)
+* 🌐 **Freelance:** متاح للعمل الحر ومشاريع الباك إند وتطوير الويب.
+*
