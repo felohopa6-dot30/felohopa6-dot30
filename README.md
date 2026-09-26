@@ -23,12 +23,15 @@
 ### 🛒 أورا ماركت / ستوريك (Aura Market / Storeek)
 * **الوصف:** منصة تسوق إلكتروني متكاملة بتصميم "سايبر-لغجري" فاخر (Cyber-Luxury)، مرتبطة بباك إند دجانجو قوي لإدارة المنتجات، المصادقة بالـ JWT، سلة المشتريات، وإدارة الطلبات والـ APIs بكفاءة عالية.
 * **التقنيات المستخدمة:** Python, Django, DRF, Tailwind CSS, JavaScript, REST APIs.
-* **رابط المشروع (Live / GitHub):** [استعرض مشروع أورا ماركت على جيت هاب](https://github.com/felo/aura-market)
+* **🔗 روابط المشروع:**
+  * **استعرض الكود على جيت هاب (Repository):** [GitHub Repository Link](https://github.com/felohopa6-dot30/ecommerce-drf-api)
+  * **الموقع الحي (Live Server):** [https://felohopa6-dot30.github.io/ecommerce-drf-api/](https://felohopa6-dot30.github.io/ecommerce-drf-api/)
+  * **الباك إند (Backend API):** [https://felohopa6.pythonanywhere.com/](https://felohopa6.pythonanywhere.com/)
 
 ---
 
 ## 📈 إحصائيات جيت هاب:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felohopa6-dot30&show_icons=true&theme=radical)
 
 ---
 
