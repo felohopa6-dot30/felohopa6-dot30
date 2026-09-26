@@ -25,10 +25,7 @@
 * **التقنيات المستخدمة:** Python, Django, DRF, Tailwind CSS, JavaScript, REST APIs.
 * **🔗 روابط المشروع:**
   * **استعرض الكود على جيت هاب (Repository):** [GitHub Repository Link](https://github.com/felohopa6-dot30/ecommerce-drf-api)
-  * **الموقع الحي (Live Server):** [https://felohopa6-dot30.github.io/ecommerce-drf-api/](https://felohopa6-dot30.github.io/ecommerce-drf-api/)
-  * **الباك إند (Backend API):** [https://felohopa6.pythonanywhere.com/](https://felohopa6.pythonanywhere.com/)
 
----
 
 ## 📈 إحصائيات جيت هاب:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felohopa6-dot30&show_icons=true&theme=radical)
